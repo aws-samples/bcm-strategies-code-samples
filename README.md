@@ -14,7 +14,7 @@ These strategies are described and discussed in the paper "Implementing IT Disas
 
 - [**Pilot Light**](./pilot-light/README.md): In this approach, a minimal version of the application environment is maintained in the cloud, ready to be scaled up when needed. The sample shows how to set up and manage a pilot light environment.
 
-- [**Warm Standby**](./pilot-light/README.md): This strategy keeps a scaled-down but functional version of the application environment running in the cloud, allowing for faster recovery. The sample illustrates the implementation of a warm standby environment.
+- [**Warm Standby**](./warm-standby/README.md): This strategy keeps a scaled-down but functional version of the application environment running in the cloud, allowing for faster recovery. The sample illustrates the implementation of a warm standby environment.
 
 Each strategy's folder contains Infrastructure as Code (IaC) definitions, failover scripts, and demonstration videos to help you understand and reproduce the implementations.
 
