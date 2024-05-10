@@ -1,6 +1,6 @@
 # Backup & Restore Reference Architecture
 
-This project provides a practical implementation of the disaster recovery (DR) strategy "Backup & Restore" outlined in the [AWS Disaster Recovery Whitepaper](https://aws.amazon.com/whitepapers/aws-disaster-recovery/). It demonstrates this using an installation of the open-source web content management system "WordPress" on an Amazon EC2 instance, and by using the AWS Backup service.
+This project provides a practical implementation of the disaster recovery (DR) strategy "Backup & Restore" outlined in the [AWS Disaster Recovery Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html). It demonstrates this using an installation of the open-source web content management system "WordPress" on an Amazon EC2 instance, and by using the AWS Backup service.
 
 ![Architecture Diagram](./images/diagram.svg)
 
