@@ -31,7 +31,7 @@ To avoid incurring additional charges, you can remove the resources created by t
 
 ## Additional Information
 
-For a deeper understanding of disaster recovery best practices, refer to the [AWS Disaster Recovery Whitepaper](https://aws.amazon.com/whitepapers/aws-disaster-recovery/). Specifically, focus on the "Backup and Restore" section of the whitepaper for comprehensive guidance on creating a robust backup and recovery strategy.
+For a deeper understanding of disaster recovery best practices, refer to the [AWS Disaster Recovery Whitepaper](https://docs.aws.amazon.com/whitepapers/latest/disaster-recovery-workloads-on-aws/disaster-recovery-workloads-on-aws.html). Specifically, focus on the "Backup and Restore" section of the whitepaper for comprehensive guidance on creating a robust backup and recovery strategy.
 
 For more information on AWS CDK and AWS Backup, consult the following resources:
 
